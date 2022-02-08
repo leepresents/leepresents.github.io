@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Archive
+permalink: /Archive/
 ---
-
-### Sample Portfolio
 
 These are screencaps from Chungking Express
 
