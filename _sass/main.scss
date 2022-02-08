@@ -90,9 +90,9 @@ pre.highlight {
   }
 
   .light-avatar {
-    display: none !important;
+    display: inline-block !important;
   }
   .dark-avatar {
-    display: inline-block !important;
+    display: none !important;
   }
 }
