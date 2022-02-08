@@ -5,9 +5,6 @@
 # Name of your site (displayed in the navbar)
 name: leepresents
 
-title: myCustomTitle
-description: myCustomAndDetailedDescription
-
 # Your site's title (e.g., Ben's Awesome Site, The GitHub Blog, etc.), used as part of the title tag like Home | Ben's Awesome Site.
 title: leepresents
 
@@ -15,7 +12,7 @@ title: leepresents
 tagline: none
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: -
+ddescription: myCustomAndDetailedDescription
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: http://leepresents.github.io
