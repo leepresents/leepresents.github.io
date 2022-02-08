@@ -42,7 +42,6 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: cy3231@gmail.com
   instagram: leepresents
   rss: # just type anything here for a working RSS icon
   
