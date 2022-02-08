@@ -12,7 +12,7 @@ title: leepresents
 tagline: none
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: ""
+description: none
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: http://leepresents.github.io
