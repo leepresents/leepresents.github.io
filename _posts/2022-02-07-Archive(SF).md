@@ -12,4 +12,4 @@ title: Archivce(SF)
 
 이미지를 꾹 눌러 사진을 저장할 수 있습니다.
 
-![leepresents_SF_1](https://user-images.githubusercontent.com/99234975/153117653-702ce024-a88d-47b0-b7a6-574e3845a22c.jpg)
+![leepresents_SF_1](https://user-images.githubusercontent.com/99234975/153117653-702ce024-a88d-47b0-b7a6-574e3845a22c.jpg){: width="1000" height="1756"}
