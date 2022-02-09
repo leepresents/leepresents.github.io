@@ -1,8 +1,6 @@
-- name: Home
+- name: Archive
   link: /
 - name: About
   link: /about/
-- name: Archive
-  link: /archive/
 - name: 7150atelier
   link: /7150atelier/
