@@ -12,5 +12,5 @@ title: Lake Tahoe
 
 이미지를 꾹 눌러 사진을 저장할 수 있습니다.
 
-![2](https://user-images.githubusercontent.com/99234975/178883150-0ed7095f-3dbd-4c51-9a5a-e682154a5f73.jpg)
-![3](https://user-images.githubusercontent.com/99234975/178883155-abdc072c-6e47-464b-97f5-73beb460e58a.jpg)
+![leepresents_LT_1](https://user-images.githubusercontent.com/99234975/178883150-0ed7095f-3dbd-4c51-9a5a-e682154a5f73.jpg)
+![leepresents_LT_2](https://user-images.githubusercontent.com/99234975/178883155-abdc072c-6e47-464b-97f5-73beb460e58a.jpg)
