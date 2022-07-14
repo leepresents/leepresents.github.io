@@ -3,7 +3,7 @@ layout: post
 title: Lake Tahoe
 ---
 
-(c) 2022. leepresents. All Rights Reserved.
+**(c) 2022. leepresents. All Rights Reserved.**
 
 상업적 용도 및 2차 가공/배포를 금지합니다. (상품 제작, 인스타그램 업로드 불가능)
 
