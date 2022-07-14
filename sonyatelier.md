@@ -1,5 +1,5 @@
 ---
 layout: page
 title: sonyatelier
-permalink: /7150atelier/
+permalink: /sonyatelier/
 ---
